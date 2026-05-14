@@ -1,0 +1,1 @@
+/Users/felix/work/github/media-conent/raw/2026-05-13_拆完Hermes源码，我发现Agent的自我进化根本不需要训练模型.md

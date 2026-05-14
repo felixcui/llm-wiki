@@ -1,7 +1,7 @@
 ---
 title: Lovart
 created: 2026-04-24
-updated: 2026-05-01
+updated: 2026-05-14
 type: entity
 tags: [tool, media-generation]
 sources:
@@ -60,4 +60,4 @@ Lovart 近期更新了 Skill 工作流，可以将生图和生视频串在一起
 
 ## 相关概念
 
-Lovart 作为 AI 图像设计平台，代表了 media-generation 工具的发展方向，从单一图像生成走向 Agent 驱动的批量创作和多步骤工作流。其在 [[ai-office-automation]] 场景中（如批量生成系列海报、产品展示图）尤其具有实用价值。
+Lovart 作为 AI 图像设计平台，代表了 media-generation 工具的发展方向，从单一图像生成走向 Agent 驱动的批量创作和多步骤工作流。其在 [[ai-office-automation]] 场景中（如批量生成系列海报、产品展示图）尤其具有实用价值。同领域的 [[sensenova-u1]] 也在图像生成方向上进行了积极探索。

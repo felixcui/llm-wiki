@@ -1,7 +1,7 @@
 ---
 title: OPC（一人公司）
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-14
 type: concept
 tags: [organization]
 sources: [raw/articles/2026-04-28-opc-content-driven-experience.md]
@@ -11,7 +11,7 @@ sources: [raw/articles/2026-04-28-opc-content-driven-experience.md]
 
 ## 核心理念
 
-阿星在 2050 大会分享中系统阐述了 OPC 的实践框架：
+[[a-xing|阿星]] 在 2050 大会分享中系统阐述了 OPC 的实践框架：
 
 ### 三阶段模型：摊位 → 飞轮 → 杠杆
 
@@ -32,7 +32,7 @@ OPC 从业者需要在早期明确三个方向：
 
 ## OPC 的 AI 工具生态
 
-阿星在实践中使用 [[openclaw]]、Skills、Coze、Google AI Studio、Claude Code 等多种 AI 工具搭建自动化工作流，将 AI 能力转化为内容产出和商业交付。
+[[a-xing|阿星]] 在实践中使用 [[openclaw]]、Skills、Coze、Google AI Studio、Claude Code 等多种 AI 工具搭建自动化工作流，将 AI 能力转化为内容产出和商业交付。
 
 ## 关键原则
 

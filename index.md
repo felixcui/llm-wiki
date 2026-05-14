@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-  > Last updated: 2026-05-09 | Total pages: 142
+  > Last updated: 2026-05-14 | Total pages: 141
 
 ## Entities
 
@@ -15,22 +15,22 @@
 - [[builderpulse]] — 开源独立开发者信息日报工具，自动生成中英文报告，帮助发现产品方向
 - [[cat-wu]] — Anthropic Claude Code/Cowork 产品负责人，AI Native PM 方法论倡导者
 - [[choco]] — AI 食品分销平台，用 OrderAgent/VoiceAgent 处理 880 万+ 订单/年，OpenAI 生产案例标杆
-||- [[claude-code]] — Anthropic 的 AI 编码 Agent 产品，支持 REPL/Tool/CLAUDE.md，含 AI Coding 安全事件记录与用户实践案例
-||- [[claude-code-capabilities]] — Claude Code 功能性特性（REPL/Tool/1M上下文/ultrareview/产品策略/竞品对比）
-||- [[claude-code-practice]] — Claude Code 实践案例（Subagent/YC高级用法/Skills生态/VSCode插件案例）
+- [[claude-code]] — Anthropic 的 AI 编码 Agent 产品，支持 REPL/Tool/CLAUDE.md，含 AI Coding 安全事件记录与用户实践案例
+- [[claude-code-capabilities]] — Claude Code 功能性特性（REPL/Tool/1M上下文/ultrareview/产品策略/竞品对比）
+- [[claude-code-practice]] — Claude Code 实践案例（Subagent/YC高级用法/Skills生态/VSCode插件案例）
 |- [[cursor-team-kit]] — Cursor 官方团队工作流插件，18 技能 + 2 规则 + 1 Agent，覆盖 CI 修复、PR 评审、代码清理
 |- [[codejunkie99]] — AI Agent 构建者，创建便携式记忆层 brain，Rust 开发者，X 账号 @Av1dlive
 - [[claude-agent-sdk]] — Anthropic 的 Agent 开发工具包，与 Claude Code 同源（tools/agent loop/context management）
 - [[calvin]] — 清华 00 后开发者，Vida/OpenChronicle 创建者，Proactive Agent 研究方向
 - [[chi-jianqiang]] — 池建强，MacTalk 作者，墨问创始人，提出 MCP 是 AI 的 UI 非 SDK
-||- [[deepseek-v4]] — DeepSeek 2026 年开源旗舰模型（Pro/Flash），1M 上下文
-||- [[deepseek-v4-technical]] — DeepSeek V4 技术细节：架构创新、训练方法、基础设施优化与性能评测
-||- [[deepseek-v4-market]] — DeepSeek V4 成本与市场影响：定价竞争、用户迁移案例与竞争格局
+- [[deepseek-v4]] — DeepSeek 2026 年开源旗舰模型（Pro/Flash），1M 上下文
+- [[deepseek-v4-technical]] — DeepSeek V4 技术细节：架构创新、训练方法、基础设施优化与性能评测
+- [[deepseek-v4-market]] — DeepSeek V4 成本与市场影响：定价竞争、用户迁移案例与竞争格局
 |- [[floatboat]] — FloatBoat 公司，Agent 即时通信产品矩阵（FloatIM），开源 Selfware/IACT 协议
 |- [[floatim]] — Agent 即时通信网络（FloatBoat），Agent 作为一等公民，开源 Selfware/IACT 协议
-||- [[feng-chengcheng]] — 阿里云专有云 Agent 技术开发负责人，提出企业级 Agent "可控/有能力/能协同"三维评估框架与四步落地法
+- [[feng-chengcheng]] — 阿里云专有云 Agent 技术开发负责人，提出企业级 Agent "可控/有能力/能协同"三维评估框架与四步落地法
 |- [[generic-agent]] — 极简自进化 Agent 框架，3300 行代码 / 9 原子工具，省 10 倍 Token
-||- [[helio]] — AI Workforce 平台，让 AI 同事成为团队原住民，拥有独立身份与主动协作能力
+- [[helio]] — AI Workforce 平台，让 AI 同事成为团队原住民，拥有独立身份与主动协作能力
 |- [[hermes-agent]] — Nous Research 开源自进化 Agent 框架，Prompt/Context/Harness 三维设计 + Memory/Skill/Nudge 自进化闭环
 |- [[gpt-5.5]] — OpenAI 2026 年旗舰模型，长任务编程与超长上下文领先
 |- [[gpt-image-2]] — OpenAI 图像生成模型，首个带思考能力，支持中文渲染与批量生图
@@ -102,9 +102,9 @@
 |- [[launch-room]] — Launch Room：跨职能快速发布机制，常驻频道实现一天发版
 |- [[prompt-context-harness-engineering]] — Agent 设计三维分析框架（Prompt/Context/Harness），含五层记忆架构
 |- [[coordination-engineering]] — 协调工程：从单 Agent 到多 Agent 协作的工程范式
-||- [[harness-engineering-deep-dive]] — Harness Engineering 深度解析（主页：定义 + 七层模型摘要 + 子页面导航）
-||- [[harness-engineering-patterns]] — Harness Engineering 核心模式（六种核心模式详解）
-||- [[harness-engineering-implementations]] — Harness Engineering 实施与案例（工程取向、安全案例、前沿实现）
+- [[harness-engineering-deep-dive]] — Harness Engineering 深度解析（主页：定义 + 七层模型摘要 + 子页面导航）
+- [[harness-engineering-patterns]] — Harness Engineering 核心模式（六种核心模式详解）
+- [[harness-engineering-implementations]] — Harness Engineering 实施与案例（工程取向、安全案例、前沿实现）
 - [[harness-engineering-cases-and-evolution]] — Harness Engineering 落地案例（Aegis/腾讯 LEGO/deer-flow）与四阶段演化
 - [[agent-skill-specification]] — Agent Skill 规范：SKILL.md 结构、复用与跨框架生态
 |- [[self-improving-agent]] — 自进化 Agent 模式：Memory/Skill/Nudge Engine 三子系统闭环，含上下文保洁模式
@@ -129,8 +129,8 @@
 - [[agent-skill-ecosystem]] — 跨框架 Skill 生态与标准化进展
 |- [[agent-technical-debt]] — Agent 技术债：七大生产基础设施模块，Google 2015 ML 技术债论文的平行，含 PocketOS 删库事故案例
 |- [[managed-agents]] — Claude Managed Agents：主 Agent 管理多个子 Agent，Opus 4.7 驱动，黑客松 6 个获奖案例
-||- [[jagged-intelligence]] — 锯齿状智能：AI 能力曲线有高峰有断崖，可验证性决定自动化边界
-||- [[opc-one-person-company]] — OPC（一人公司）：AI 时代个体户商业形态，摊位-飞轮-杠杆三阶段模型
+- [[jagged-intelligence]] — 锯齿状智能：AI 能力曲线有高峰有断崖，可验证性决定自动化边界
+- [[opc-one-person-company]] — OPC（一人公司）：AI 时代个体户商业形态，摊位-飞轮-杠杆三阶段模型
 |- [[portable-memory-layer]] — 便携式记忆层（Git 事件日志 + SQLite 索引 + MCP），跨工具/跨模型持久记忆架构
 
 ### 工具/产品
@@ -162,9 +162,9 @@
 
 ### 技术原理
 
-||- [[ai-engineering]] — AI Engineering：围绕 LLM 构建可靠生产系统的工程学科，20% 技能驱动 80% 工作
-||- [[prompt-engineering]] — Prompt Engineering：从"和模型聊天"到"可预测地控制模型"，LLM 交互核心技能
-||- [[token-roi]] — Token ROI：Token 投资回报率，token 消耗是成本而非价值，应关注 AI 带来的有效收益与综合成本之比
+- [[ai-engineering]] — AI Engineering：围绕 LLM 构建可靠生产系统的工程学科，20% 技能驱动 80% 工作
+- [[prompt-engineering]] — Prompt Engineering：从"和模型聊天"到"可预测地控制模型"，LLM 交互核心技能
+- [[token-roi]] — Token ROI：Token 投资回报率，token 消耗是成本而非价值，应关注 AI 带来的有效收益与综合成本之比
 
 ## Comparisons
 

@@ -1,7 +1,7 @@
 ---
 title: Spec-Kit
 created: 2026-04-25
-updated: 2026-04-27
+updated: 2026-05-14
 type: entity
 tags: [tool, ai-coding, open-source]
 sources:
@@ -44,6 +44,8 @@ Spec-Kit 采用严格顺序的五阶段工作流：
 Spec-Kit 属于 [[spec-driven-development]] 的规范管理层。与 [[openspec]] 相比更重、更正式；与 [[superpowers]] 互补——Spec-Kit 管"做什么"，Superpowers 管"怎么做好"。适合与 [[claude-code]] 配合使用。
 
 Spec-Kit 的 Constitution 机制与 [[claude-code-system-prompt]] 中"静态配置层"的设计理念相通——都通过顶层约束文件来塑造 AI 的行为边界。其严格阶段门控也反映了 [[prompt-context-harness-engineering]] 中对结构化流程的重视。
+
+类似 Spec-Kit 的 AI 编程工作流工具还有 [[cursor-team-kit]]，两者都致力于优化 AI 辅助编码的协作流程。
 
 ## 上手命令
 

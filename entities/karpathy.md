@@ -1,7 +1,7 @@
 ---
 title: Andrej Karpathy
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-14
 type: entity
 tags:
   - person
@@ -41,3 +41,4 @@ Karpathy 在 2025 年初提出了 **Vibe Coding** 概念——用自然语言描
 - [[openai]] — 联合创始机构
 - [[anthropic]] — 当前 AI 工具生态中的关键玩家
 - [[claude-code]] — Agentic Engineering 的典型实践工具
+- [[agi-paradox]] — AGI 进展中的核心悖论与反思

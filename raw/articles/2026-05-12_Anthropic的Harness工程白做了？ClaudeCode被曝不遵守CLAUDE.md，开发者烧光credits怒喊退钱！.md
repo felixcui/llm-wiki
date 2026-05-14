@@ -1,0 +1,1 @@
+/Users/felix/work/github/media-conent/raw/2026-05-12_Anthropic的Harness工程白做了？ClaudeCode被曝不遵守CLAUDE.md，开发者烧光credits怒喊退钱！.md

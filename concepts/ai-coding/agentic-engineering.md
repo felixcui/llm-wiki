@@ -1,7 +1,7 @@
 ---
 title: Agentic Engineering
 created: 2026-05-05
-updated: 2026-05-09
+updated: 2026-05-14
 type: concept
 tags:
   - agent-framework
@@ -90,6 +90,7 @@ zhiyuanfu 总结的 Agent 系统基础层次：
 - [[codex]] — OpenAI 的编程 Agent
 - [[agent-first-design]] — 以 Agent 为核心的设计理念
 - [[agent-orchestrator]] — Agent 编排器
+- [[ai-customer-service]] — Agentic Engineering 在客服领域的典型落地场景
 
 ## Agent 时代的生产力悖论
 

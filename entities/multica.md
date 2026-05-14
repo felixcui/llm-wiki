@@ -1,7 +1,7 @@
 ---
 title: Multica
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-14
 type: entity
 tags: [open-source, agent-framework, tool]
 sources: [raw/articles/2026-04-27-multica-interview.md]
@@ -63,6 +63,7 @@ Multica targets stage 4, representing a shift from single-agent to [[sub-agent-v
 - [[claude-code]] — Primary agent runtime supported by Multica
 - [[openclaw]] — Open-source agent framework compatible with Multica
 - [[hermes-agent]] — Agent runtime with skill system
+- [[onyx]] — 另一个多 Agent 协作平台
 - [[coordination-engineering]] — Human-agent workflow design principles
 - [[sub-agent-vs-agent-team]] — Architectural tradeoffs in multi-agent systems
 - [[ai-native-organization]] — Organizational structures optimized for AI-native teams

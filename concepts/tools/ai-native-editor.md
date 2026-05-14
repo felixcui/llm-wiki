@@ -1,7 +1,7 @@
 ---
 title: AI 原生编辑器（AI Native Editor）
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-14
 type: concept
 tags:
   - tool
@@ -40,6 +40,8 @@ sources:
 3. **ACP 协议** — 让外部 Agent（如 [[claude-code]]、[[codex]]）与编辑器深度交互
 4. **实时协作** — 人类与 AI 在同一编辑空间中协同工作
 5. **语义理解** — 基于代码语义（而非纯文本）的导航和修改
+
+AI 原生编辑器的兴起是 [[software-3-0]] 范式转移的典型体现——编程从编写代码指令转向定义意图和规格，AI 负责执行。
 
 ## ACP 协议
 

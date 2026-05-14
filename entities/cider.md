@@ -1,7 +1,7 @@
 ---
 title: Cider
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-14
 type: entity
 tags:
   - tool
@@ -53,4 +53,4 @@ model = convert_model(model)
 
 ## 生态定位
 
-Cider 是 Private AI（本地 AI）生态中"速度"支柱的核心工具，与 [[mano-p]]（场景）和 [[hermes-agent]] 等本地 Agent 框架共同构建 Apple Silicon 上的本地 AI 能力。类似 [[openclaw]] 等项目也在探索 Apple Silicon 上的 AI 推理优化。
+Cider 是 Private AI（本地 AI）生态中"速度"支柱的核心工具，与 [[mano-p]]（场景）和 [[hermes-agent]] 等本地 Agent 框架共同构建 Apple Silicon 上的本地 AI 能力。在 [[private-ai]] 的整体框架下，Cider 负责解决推理加速问题，使本地部署大模型成为可能。类似 [[openclaw]] 等项目也在探索 Apple Silicon 上的 AI 推理优化。

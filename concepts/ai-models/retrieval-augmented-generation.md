@@ -1,10 +1,12 @@
 ---
 title: RAG（Retrieval-Augmented Generation）
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-15
 type: concept
 tags: [model, data, inference]
-sources: [raw/articles/2026-04-28-ai-engineer-learning-path.md]
+sources:
+  - raw/articles/2026-04-28-ai-engineer-learning-path.md
+  - raw/articles/2026-05-15_AI知识库技术演进拆解：从RAG到NotebookLM，再到LLMWiki.md
 ---
 
 # RAG（Retrieval-Augmented Generation）

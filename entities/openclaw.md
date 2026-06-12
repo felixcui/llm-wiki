@@ -1,7 +1,7 @@
 ---
 title: OpenClaw
 created: 2026-04-25
-updated: 2026-05-08
+updated: 2026-05-16
 type: entity
 tags: [tool, agent-framework, open-source, company]
 sources:
@@ -13,8 +13,11 @@ sources:
   - raw/articles/2026-04-24_Harness到底是什么？看看OpenClaw、Hermes、ClaudeCode的演绎吧.md
   - raw/articles/2026-04-26-embrace-ai-one-year-tools-practice.md
   - raw/articles/2026-04-27-anthropic-launch-secrets.md
+  - raw/articles/2026-05-14_【深度拆解】OpenClawvsHermes：多Agent架构设计.md
+  - raw/articles/2026-05-15_AI让生产效率不再是瓶颈，然后呢？｜AI跃迁者调研02-flomo少楠.md
   - raw/articles/2026-04-29_深度访谈｜OpenClaw引爆Agent元年，AIAgent在企业内如何规模化应用？.md
   - raw/articles/2026-05-08-medical-ai-harness-era.md
+  - raw/articles/2026-05-14_SkillsPluginsMCPAgent到底是什么.md
 ---
 
 # OpenClaw
@@ -167,3 +170,29 @@ OpenClaw 适用于：
 ### 医疗健康：WiseClaw 2.0
 
 [[wiseclaw]] 是 [[zhizhen-tech]]（智诊科技）基于 OpenClaw 构建的医疗健康行业 Agent OS 平台，底层延续 OpenClaw 在连接与调度上的能力，上层将 [[prompt-context-harness-engineering]] 核心理念做成系统默认值。该平台已与 300+ 三甲医院、500+ 头部医疗企业合作，标志着 OpenClaw 生态从通用开发场景扩展到医疗等高风险行业。^[raw/articles/2026-05-08-medical-ai-harness-era.md]
+
+## 多 Agent 架构：基于会话系统
+
+OpenClaw 采用**基于会话系统**实现多 Agent 架构。核心问题是：父 Agent 如何把任务交给子 Agent？OpenClaw 的答案是**先创建一个子会话，再纳入现有的会话、运行网关、运行时和权限策略体系**。子 Agent 不是一个临时函数调用，而是一个带会话标识、生命周期状态和工具策略的子会话。^[raw/articles/2026-05-14_【深度拆解】OpenClawvsHermes：多Agent架构设计.md]
+
+### 子任务执行链路
+
+```
+1. 父 Agent 发起子会话创建请求
+2. 系统校验运行时、深度、并发数量、沙箱策略和目标 Agent
+3. 生成新的子会话标识
+4. 根据父子关系计算层级、角色和控制范围
+5. 子会话的父子关系、角色、工作目录写入会话状态
+6. 运行网关启动子会话
+7. 子任务注册机制接管等待、结果捕获、事件回传和清理
+```
+
+### 关键设计特点
+
+- **统一入口创建子运行时** — 同时处理运行时选择、上下文隔离、沙箱策略、线程绑定、模型配置
+- **角色信息写入会话元数据** — 层级、角色、控制范围、是否允许继续派生子 Agent
+- **双层权限控制** — 提示词层面约束行为 + 运行时层面裁剪工具
+- **事件链路结果回传** — 子 Agent 完成后通过事件投递回目标会话，区分内部链路和用户交付链路
+- **默认单层并行展开** — 不放开深层递归委派，先保证一层并行可控
+
+^[raw/articles/2026-05-14_【深度拆解】OpenClawvsHermes：多Agent架构设计.md]

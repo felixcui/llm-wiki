@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-  > Last updated: 2026-05-14 | Total pages: 141
+  > Last updated: 2026-05-19 | Total pages: 152
 
 ## Entities
 
@@ -12,6 +12,7 @@
 - [[aaron-levie]] — Box CEO，"无界面化软件"倡导者，认为 AI Agent 将创造智能体操作员新岗位
 - [[anthropic]] — AI 安全公司，Claude/Claude Code/Cowork 产品矩阵，极速发版文化，含批量封禁争议事件
 - [[boris-cherny]] — Anthropic Claude Code 技术负责人和创造者，《Programming TypeScript》作者
+- [[browseruse]] — 开源浏览器自动化项目（75K+ stars），为 Agent 构建浏览器 Runtime Harness
 - [[builderpulse]] — 开源独立开发者信息日报工具，自动生成中英文报告，帮助发现产品方向
 - [[cat-wu]] — Anthropic Claude Code/Cowork 产品负责人，AI Native PM 方法论倡导者
 - [[choco]] — AI 食品分销平台，用 OrderAgent/VoiceAgent 处理 880 万+ 订单/年，OpenAI 生产案例标杆
@@ -167,5 +168,7 @@
 - [[token-roi]] — Token ROI：Token 投资回报率，token 消耗是成本而非价值，应关注 AI 带来的有效收益与综合成本之比
 
 ## Comparisons
+
+- [[browser-automation-landscape]] — 浏览器自动化方案全景对比：传统工具（Selenium/Puppeteer/Playwright）、AI Agent 工具（Browser Use/Stagehand/Playwright MCP）、云端基础设施（Browserbase/Steel）、视觉方案（Computer Use/Operator）
 
 ## Queries

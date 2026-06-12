@@ -1,0 +1,1 @@
+/Users/felix/work/github/media-conent/raw/2026-05-29_VikingAI搜索CLI正式发布：会说话，就能做搜索推荐.md

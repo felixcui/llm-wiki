@@ -1,13 +1,14 @@
 ---
 title: Vibe Coding
 created: 2026-05-05
-updated: 2026-05-09
+updated: 2026-05-15
 type: concept
 tags:
   - ai-coding
   - practice
 sources:
   - raw/articles/2026-05-05-karpathy-agentic-engineering.md
+  - raw/articles/2026-05-15_AI让生产效率不再是瓶颈，然后呢？｜AI跃迁者调研02-flomo少楠.md
   - raw/articles/2026-05-05-vibecoding-to-agentic-engineering.md
   - raw/articles/2026-05-07-aicoding-guide.md
   - raw/articles/2026-05-08-veteran-developer-agent-journey.md

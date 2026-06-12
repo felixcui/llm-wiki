@@ -1,7 +1,7 @@
 ---
 title: Harness Engineering 深度解析
 created: 2026-04-26
-updated: 2026-05-07
+updated: 2026-05-15
 type: concept
 tags: [agent-framework, inference, data]
 sources:
@@ -13,6 +13,9 @@ sources:
   - raw/articles/2026-04-27_智能体工程的隐形技术债：10分钟造出一个Agent，公司却要为它养一个平台团队.md
   - raw/articles/2026-04-29-ai-delete-database.md
   - raw/articles/2026-04-29-ai-agent-memorystack.md
+  - raw/articles/2026-05-14_从零设计生产级Multi-AgentHarness：架构、评估、记忆、成本与MCP工具接入全拆解.md
+  - raw/articles/2026-05-14_别让AI瞎猜了：用HarnessEngineering终结无限返工.md
+  - raw/articles/2026-05-14_BrowserUse：为Agent构建RuntimeHarness.md
   - raw/articles/2026-04-30_深入浅出HarnessEngineerring之核心模式与理念.md
   - raw/articles/2026-05-07-agents-md-guide.md
   - raw/articles/2026-05-07-agent-employee-new-player.md

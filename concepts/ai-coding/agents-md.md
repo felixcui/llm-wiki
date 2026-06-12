@@ -1,13 +1,14 @@
 ---
 title: AGENTS.md
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-15
 type: concept
 tags:
   - ai-coding
   - practice
 sources:
   - raw/articles/2026-05-07-agents-md-guide.md
+  - raw/articles/2026-05-14_别让AI瞎猜了：用HarnessEngineering终结无限返工.md
 ---
 
 # AGENTS.md

@@ -1,10 +1,12 @@
 ---
 title: Agent时代生产力悖论
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-15
 type: concept
 tags: [prediction, coordination-engineering, practice]
-sources: [raw/articles/2026-05-09-agent-era-productivity-paradox.md]
+sources:
+  - raw/articles/2026-05-09-agent-era-productivity-paradox.md
+  - raw/articles/2026-05-15_AI让生产效率不再是瓶颈，然后呢？｜AI跃迁者调研02-flomo少楠.md
 ---
 
 # Agent时代生产力悖论 (Productivity Paradox)

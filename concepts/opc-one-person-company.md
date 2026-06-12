@@ -1,10 +1,13 @@
 ---
 title: OPC（一人公司）
 created: 2026-04-28
-updated: 2026-05-14
+updated: 2026-05-15
 type: concept
 tags: [organization]
-sources: [raw/articles/2026-04-28-opc-content-driven-experience.md]
+sources:
+  - raw/articles/2026-04-28-opc-content-driven-experience.md
+  - raw/articles/2026-05-14_我的一人公司，空降腾讯一键开雇！.md
+  - raw/articles/2026-05-15_AI最大的礼物，是让你能廉价地失败100次.md
 ---
 
 **OPC（One Person Company，一人公司/个体户）** 是指以个人为主体、无需组建团队或外部融资即可独立运营的商业形态。在 AI 时代，OPC 成为普通人最低成本的创业路径——通过 AI 工具放大个人产能，用内容获取流量，以产品/服务承接需求。

@@ -1,7 +1,7 @@
 ---
 title: AI Employee
 created: 2026-05-07
-updated: 2026-05-09
+updated: 2026-05-15
 type: concept
 tags:
   - ai-workforce
@@ -9,6 +9,7 @@ tags:
 sources:
   - raw/articles/2026-05-07-agent-employee-new-player.md
   - raw/articles/2026-05-09-kuaishou-krowork-agent.md
+  - raw/articles/2026-05-15_一个人+Claude+云服务，相当于一整个工程团队.md
 ---
 
 # AI Employee (AI 员工)

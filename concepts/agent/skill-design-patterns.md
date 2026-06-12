@@ -1,10 +1,10 @@
 ---
 title: Skill Design Patterns
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-16
 type: concept
 tags: [agent-framework, tool]
-sources: [raw/articles/2026-04-28-workflow-skill-patterns.md, raw/articles/2026-04-28-google-agent-skill-toolkit.md]
+sources: [raw/articles/2026-04-28-workflow-skill-patterns.md, raw/articles/2026-04-28-google-agent-skill-toolkit.md, raw/articles/2026-05-14_75Kstar的SKILL爆款仓库，没有一行新东西，且个个数十行，凭什么疯传？.md]
 ---
 
 # Skill Design Patterns

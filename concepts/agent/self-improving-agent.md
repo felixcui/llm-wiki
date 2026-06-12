@@ -1,7 +1,7 @@
 ---
 title: Self-Improving Agent
 created: 2026-04-24
-updated: 2026-04-30
+updated: 2026-05-15
 type: concept
 tags: [agent-framework, optimization, inference]
 sources:
@@ -10,6 +10,7 @@ sources:
   - raw/articles/2026-04-25-hermes-skills-agent-self-evolution.md
   - raw/articles/2026-04-27_记忆，是Agent基建｜对话Calvin@Vida.md
   - raw/articles/2026-04-30_开源「洁癖.skill」，让你的Agent越用越聪明。.md
+  - raw/articles/2026-05-14_当我把AI变成一个算法：Skill工程化设计的心路历程.md
 ---
 
 # Self-Improving Agent（自进化 Agent）

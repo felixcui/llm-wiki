@@ -1,10 +1,13 @@
 ---
 title: MCP (Model Context Protocol)
 created: 2026-05-09
-updated: 2026-05-14
+updated: 2026-05-15
 type: entity
 tags: [tool, open-source]
-sources: [raw/articles/2026-05-09-boris-cherny-sequoia-engineering-future.md]
+sources:
+  - raw/articles/2026-05-09-boris-cherny-sequoia-engineering-future.md
+  - raw/articles/2026-05-14_SkillsPluginsMCPAgent到底是什么.md
+  - raw/articles/2026-05-14_从零设计生产级Multi-AgentHarness：架构、评估、记忆、成本与MCP工具接入全拆解.md
 ---
 
 # MCP (Model Context Protocol)

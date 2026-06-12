@@ -1,0 +1,1 @@
+/Users/felix/work/github/media-conent/raw/2026-06-03_GitHub-tw93Mole🐹Clean,uninstall,analyze,optimize,andmonitoryourMacfromthetermina.md

@@ -1,7 +1,7 @@
 ---
 title: Andrej Karpathy
 created: 2026-05-05
-updated: 2026-05-14
+updated: 2026-05-15
 type: entity
 tags:
   - person
@@ -9,6 +9,7 @@ tags:
 sources:
   - raw/articles/2026-05-05-karpathy-agentic-engineering.md
   - raw/articles/2026-05-05-vibecoding-to-agentic-engineering.md
+  - raw/articles/2026-05-14_深度解析LLMWikiObsidian-WikiGBrain：Agent时代知识的"自组织"与"自进化".md
 ---
 
 # Andrej Karpathy

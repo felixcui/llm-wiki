@@ -1,13 +1,14 @@
 ---
 title: Hermes Agent
 created: 2026-04-25
-updated: 2026-04-28
+updated: 2026-05-16
 type: entity
 tags: [tool, agent-framework, open-source, fine-tuning]
 sources:
   - raw/articles/2026-04-25_深度解析HermesAgent如何实现"自进化"及其PromptContextHarness的设计实践.md
   - raw/articles/2026-04-24_深入源码：HermesAgent如何实现Self-Improving.md
   - raw/articles/2026-04-25-hermes-skills-agent-self-evolution.md
+  - raw/articles/2026-05-14_【深度拆解】OpenClawvsHermes：多Agent架构设计.md
   - raw/articles/2026-04-22_万字保姆级教程：Hermes+KimiK2.6打造7x24hAgent军团.md
   - raw/articles/2026-04-27_Skill也有语言虚拟机了！上交大开源SkVM，实现一次编写，处处高效.md
   - raw/articles/2026-04-28-openclaw-vs-hermes-architecture.md
@@ -62,3 +63,39 @@ HermesAgent 的核心优势在于 **Learningloop（学习闭环）**：Agent 可
 - 代表"潜力更大，能力天花板更高"的技术路线
 - 自进化消耗更多 Token 和计算资源，需权衡稳定可控与成长潜力
 - 长期趋势：企业级 Agent 应融合 OpenClaw 的稳定可控底座和 Hermes 的自我进化能力
+
+## 多 Agent 架构：基于进程内委派
+
+Hermes 采用**基于进程内委派**实现多 Agent 架构。父 Agent 发起委派请求，当前进程里创建一组子 Agent，并行跑完后把结构化结果交回父 Agent。^[raw/articles/2026-05-14_【深度拆解】OpenClawvsHermes：多Agent架构设计.md]
+
+### 委派执行链路
+
+```
+1. 父 Agent 发起任务委派请求
+2. 系统校验当前深度、并发上限和暂停状态
+3. 把一个/多个子任务规范化成任务列表
+4. 为每个子任务创建新的子 Agent 实例
+5. 子 Agent 继承父 Agent 工具上限，按规则裁剪权限
+6. 多个子 Agent 通过线程池并行执行
+7. 所有结果汇总成结构化结果数组返回
+```
+
+### 关键设计特点
+
+- **多 Agent 能力封装为工具** — 委派接入现有工具调用框架，对父 Agent 来说与调用其他工具一样
+- **子 Agent 是新 Agent 实例** — 同一进程内的对象，有自己的任务提示词、工具集和执行状态
+- **权限继承与强制裁剪** — 子 Agent 权限不超过父 Agent，默认剥离委派、追问、写记忆、发消息、执行脚本
+- **调度角色自动降级** — 根据深度和开关判断是否保留继续委派能力，否则退化为执行角色
+- **同步返回** — 不依赖事件回传，父 Agent 等待结构化结果数组即可
+
+### 运行期保障
+
+- **子 Agent 运行状态表** — 记录标识、层级、模型、状态、工具调用次数，支持实时进度回调
+- **中断递归传播** — 父 Agent 中断时，信号传给所有子 Agent 和并发工具线程
+- **文件状态登记** — 记录每个任务读过/写过哪些文件，写前检查是否过期，提醒父 Agent 重新读取
+
+### MoA（Mixture-of-Agents）
+
+Hermes 还支持 MoA 结构：多个参考模型并行生成候选答案，聚合模型综合对比输出融合结果。与层级式委派是独立的两类多 Agent 模式。
+
+^[raw/articles/2026-05-14_【深度拆解】OpenClawvsHermes：多Agent架构设计.md]

@@ -1,0 +1,1 @@
+/Users/felix/work/github/media-conent/raw/2026-06-09_GitHub-Leonxlnxtaste-skillTaste-Skill-givesyourAIgoodtaste.stopstheAIfromgenerat.md

@@ -1,0 +1,1 @@
+/Users/felix/work/github/media-conent/raw/2026-05-30_一文搞懂如何在Codex中使用goals.md

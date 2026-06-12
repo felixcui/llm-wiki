@@ -1,13 +1,16 @@
 ---
 title: Claude Code
 created: 2026-04-25
-updated: 2026-05-07
+updated: 2026-05-15
 type: entity
 tags: [tool, agent-framework, ai-coding, company]
 sources:
   - raw/articles/2026-04-25_ai_pm_catwu.md
   - raw/articles/2026-04-25_Anthropic实锤ClaudeCode「降智」：就是这三个Bug造成的.md
   - raw/articles/2026-04-25_深度解析HermesAgent如何实现"自进化"及其PromptContextHarness的设计实践.md
+  - raw/articles/2026-05-14_探秘ClaudeCode，搞懂AgentHarness｜对谈来新璐.md
+  - raw/articles/2026-05-15_AI让生产效率不再是瓶颈，然后呢？｜AI跃迁者调研02-flomo少楠.md
+  - raw/articles/2026-05-15_一个人+Claude+云服务，相当于一整个工程团队.md
   - raw/articles/2026-04-27-anthropic-launch-secrets.md
   - raw/articles/2026-04-29-ai-delete-database.md
   - raw/articles/2026-05-07-claude-code-future.md

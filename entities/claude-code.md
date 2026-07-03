@@ -7,7 +7,7 @@ tags: [tool, agent-framework, ai-coding, company]
 sources:
   - raw/articles/2026-04-25_ai_pm_catwu.md
   - raw/articles/2026-04-25_Anthropic实锤ClaudeCode「降智」：就是这三个Bug造成的.md
-  - raw/articles/2026-04-25_深度解析HermesAgent如何实现"自进化"及其PromptContextHarness的设计实践.md
+  - raw/articles/2026-04-25_深度解析HermesAgent如何实现“自进化”及其PromptContextHarness的设计实践.md
   - raw/articles/2026-05-14_探秘ClaudeCode，搞懂AgentHarness｜对谈来新璐.md
   - raw/articles/2026-05-15_AI让生产效率不再是瓶颈，然后呢？｜AI跃迁者调研02-flomo少楠.md
   - raw/articles/2026-05-15_一个人+Claude+云服务，相当于一整个工程团队.md
@@ -23,7 +23,7 @@ sources:
 
 ## 概述
 
-Claude Code 是 Anthropic 推出的命令行 AI 编码 Agent，采用 REPL（Read-Eval-Print Loop）交互模式，用户在终端中以自然语言描述任务，Agent 自主调用工具完成代码编写、文件操作、命令执行等工作。它是目前 AI Coding 领域使用最广泛的 Agent 产品之一，也是 [[openclaw]]、[[hermes-agent]] 等开源 Agent 框架的重要对标对象。^[raw/articles/2026-04-25_深度解析HermesAgent如何实现"自进化"及其PromptContextHarness的设计实践.md]
+Claude Code 是 Anthropic 推出的命令行 AI 编码 Agent，采用 REPL（Read-Eval-Print Loop）交互模式，用户在终端中以自然语言描述任务，Agent 自主调用工具完成代码编写、文件操作、命令执行等工作。它是目前 AI Coding 领域使用最广泛的 Agent 产品之一，也是 [[openclaw]]、[[hermes-agent]] 等开源 Agent 框架的重要对标对象。^[raw/articles/2026-04-25_深度解析HermesAgent如何实现“自进化”及其PromptContextHarness的设计实践.md]
 
 Claude Code 由技术负责人 [[boris-cherny]]（负责产品愿景）和产品负责人 [[cat-wu]]（负责执行路径和跨团队协调）共同带领，团队几乎所有 PM 都有工程背景。^[raw/articles/2026-04-27-anthropic-launch-secrets.md]
 

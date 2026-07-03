@@ -5,6 +5,7 @@ updated: 2026-04-29
 type: entity
 tags: [company, agent-framework, china-ecosystem]
 sources: [raw/articles/2026-04-29_前字节产品高管拿到数千万元Pre-Seed轮融资，锦秋、百度风投押注LifeAgent.md]
+confidence: medium
 ---
 
 # 维塔流动 (VitaFlow)

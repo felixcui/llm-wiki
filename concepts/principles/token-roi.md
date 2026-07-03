@@ -5,6 +5,7 @@ updated: 2026-05-06
 type: concept
 tags: [practice, optimization]
 sources: [raw/articles/2026-05-06-token-roi.md]
+confidence: medium
 ---
 
 # Token ROI（Token 投资回报率）

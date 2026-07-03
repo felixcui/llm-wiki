@@ -1,0 +1,1 @@
+/Users/felix/work/github/media-conent/raw/2026-06-12_用ChatGPT管项目，让Codex只做Ticket.md

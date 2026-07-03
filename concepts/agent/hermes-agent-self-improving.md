@@ -5,7 +5,7 @@ updated: 2026-04-28
 type: concept
 tags: [agent-framework, optimization, fine-tuning]
 sources:
-  - raw/articles/2026-04-25_深度解析HermesAgent如何实现"自进化"及其PromptContextHarness的设计实践.md
+  - raw/articles/2026-04-25_深度解析HermesAgent如何实现“自进化”及其PromptContextHarness的设计实践.md
   - raw/articles/2026-04-24_深入源码：HermesAgent如何实现Self-Improving.md
   - raw/articles/2026-04-25-hermes-skills-agent-self-evolution.md
   - raw/articles/2026-04-28-openclaw-vs-hermes-architecture.md

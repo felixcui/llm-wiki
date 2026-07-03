@@ -5,7 +5,7 @@ updated: 2026-05-15
 type: entity
 tags: [tool, ai-coding, company]
 sources:
-  - raw/articles/2026-05-14_Agent请求量暴涨15倍！Cursor创始人：75%企业代码已由AI生成，内部30%PR已由Agent端到端完成，探索无人类介入的自主Team模式.md
+  - raw/articles/2026-05-14_[[claude-code]] 等 Agent请求量暴涨15倍！Cursor创始人：75%企业代码已由AI生成，内部30%PR已由Agent端到端完成，探索无人类介入的自主Team模式.md
 ---
 
 # Cursor
@@ -16,7 +16,7 @@ sources:
 
 ## 概述
 
-Cursor 是一款 AI 驱动的代码编辑器，从 VS Code fork 而来，将 AI 能力深度嵌入编辑体验。2026年5月，创始人 Michael Truell 在 Cursor 新办公室（原《星球大战》首映影院）发表演讲《AI Coding 的下一个纪元》，提出了软件开发的三纪元模型。^[raw/articles/2026-05-14_Agent请求量暴涨15倍！Cursor创始人：75%企业代码已由AI生成，内部30%PR已由Agent端到端完成，探索无人类介入的自主Team模式.md]
+Cursor 是一款 AI 驱动的 [[ai-native-editor]]的代码编辑器，从 VS Code fork 而来，将 AI 能力深度嵌入编辑体验。2026年5月，创始人 Michael Truell 在 Cursor 新办公室（原《星球大战》首映影院）发表演讲《AI Coding 的下一个纪元》，提出了软件开发的三纪元模型。^[raw/articles/2026-05-14_Agent请求量暴涨15倍！Cursor创始人：75%企业代码已由AI生成，内部30%PR已由Agent端到端完成，探索无人类介入的自主Team模式.md]
 
 ## 三纪元模型
 

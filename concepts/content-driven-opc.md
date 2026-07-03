@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: concept
 tags: [organization]
 sources: [raw/articles/2026-04-28-opc-content-driven-experience.md]
+confidence: medium
 ---
 
 **内容驱动型 OPC（Content-driven One Person Company）** 是以内容创作为核心引擎的一人公司模式，强调通过持续的内容输出获取流量、建立信任、转化商业价值。与纯技术或纯产品型 OPC 不同，内容驱动型 OPC 对普通人最为友好——无需团队、无需融资、无需复杂技术能力。

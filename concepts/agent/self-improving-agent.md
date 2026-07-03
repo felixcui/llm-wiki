@@ -6,7 +6,7 @@ type: concept
 tags: [agent-framework, optimization, inference]
 sources:
   - raw/articles/2026-04-24_深入源码：HermesAgent如何实现Self-Improving.md
-  - raw/articles/2026-04-25_深度解析HermesAgent如何实现"自进化"及其PromptContextHarness的设计实践.md
+  - raw/articles/2026-04-25_深度解析HermesAgent如何实现“自进化”及其PromptContextHarness的设计实践.md
   - raw/articles/2026-04-25-hermes-skills-agent-self-evolution.md
   - raw/articles/2026-04-27_记忆，是Agent基建｜对话Calvin@Vida.md
   - raw/articles/2026-04-30_开源「洁癖.skill」，让你的Agent越用越聪明。.md
@@ -65,7 +65,7 @@ Nudge Engine 维护两个计数器（Memory 每 10 个用户回合、Skill 每 1
 
 ## RL 训练闭环
 
-除动态 Skill 沉淀（"外挂式进化"）外，Hermes 还支持 RL 训练（"内化式进化"）：基于 Agent 运行轨迹自动合成训练数据，经过质量筛选后在隔离环境中做小规模实验→正式训练→自动评估的完整闭环，最终通过改变模型权重实现领域内的局部最优解。^[raw/articles/2026-04-25_深度解析HermesAgent如何实现"自进化"及其PromptContextHarness的设计实践.md]
+除动态 Skill 沉淀（"外挂式进化"）外，Hermes 还支持 RL 训练（"内化式进化"）：基于 Agent 运行轨迹自动合成训练数据，经过质量筛选后在隔离环境中做小规模实验→正式训练→自动评估的完整闭环，最终通过改变模型权重实现领域内的局部最优解。^[raw/articles/2026-04-25_深度解析HermesAgent如何实现“自进化”及其PromptContextHarness的设计实践.md]
 
 ## 组织级进化：RDSHermes Skill Hub
 

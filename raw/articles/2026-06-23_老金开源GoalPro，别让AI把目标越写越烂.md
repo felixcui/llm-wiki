@@ -1,0 +1,1 @@
+/Users/felix/work/github/media-conent/raw/2026-06-23_老金开源GoalPro，别让AI把目标越写越烂.md

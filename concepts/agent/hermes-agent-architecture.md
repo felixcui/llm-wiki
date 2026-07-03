@@ -6,7 +6,7 @@ type: concept
 tags: [agent-framework, architecture, open-source]
 sources:
   - raw/articles/2026-04-28-openclaw-vs-hermes-architecture.md
-  - raw/articles/2026-04-25_深度解析HermesAgent如何实现"自进化"及其PromptContextHarness的设计实践.md
+  - raw/articles/2026-04-25_深度解析HermesAgent如何实现“自进化”及其PromptContextHarness的设计实践.md
   - raw/articles/2026-04-22_万字保姆级教程：Hermes+KimiK2.6打造7x24hAgent军团.md
 ---
 

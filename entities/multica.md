@@ -5,6 +5,7 @@ updated: 2026-05-14
 type: entity
 tags: [open-source, agent-framework, tool]
 sources: [raw/articles/2026-04-27-multica-interview.md]
+confidence: medium
 ---
 
 # Multica

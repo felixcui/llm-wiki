@@ -6,7 +6,7 @@ type: concept
 tags: [agent-framework, inference, data]
 sources:
   - raw/articles/2026-04-24_Harness到底是什么？看看OpenClaw、Hermes、ClaudeCode的演绎吧.md
-  - raw/articles/2026-04-22_从玩具到生产力：用真实项目讲透 AI Agent 的 Harness Engineering.md
+  - raw/articles/2026-04-22_从玩具到生产力：用真实项目讲透 AI Agent 的 Harness Engineering.md
   - raw/articles/2026-04-22_深度解析ClaudeCode在PromptContextHarness的设计与实践.md
   - raw/articles/2026-04-24_刚刚！GenericAgent中文教程发布！比Hermes省10倍Token.md
   - raw/articles/2026-04-27_Skill也有语言虚拟机了！上交大开源SkVM，实现一次编写，处处高效.md

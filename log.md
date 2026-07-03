@@ -171,3 +171,89 @@
 
 ## [2026-06-11] ingest | Daily sync: 8 articles (2026-06-11_*.md)
 - Symlinked 8 new articles to wiki/raw/articles/
+
+## [2026-06-14] ingest | Daily sync: 14 articles (2026-06-14_*.md)
+- Symlinked 14 new articles to wiki/raw/articles/
+
+## [2026-06-17] ingest | Daily sync (cron)
+- Linked 10 raw articles via symlink to wiki/raw/articles/
+- Files: 2026-06-17_@bi_9527zx的推文.md, 2026-06-17_@sjsandeep_jain的推文.md, 2026-06-17_AI不缺智商缺纪律：我的Harness工程化实践.md, 2026-06-17_GitHub-JimLiubaoyu-designRunClaudeDesignlocallyasanAgentSkill—Cursor,ClaudeCode&.md, 2026-06-17_LoopEngineering，从Prompt工程师到Loop架构师的14步路线图.md, 2026-06-17_一个「静音」口罩，补上了AI语音革命的最后一块拼图.md, 2026-06-17_人大附中校长宓奇演讲实录：如何培养AI原住人才｜甲子光年.md, 2026-06-17_年薪300万的前沿部署工程师，要被「录屏教学」替代了.md, 2026-06-17_当只看脸的RAG学会了顺藤摸瓜…….md, 2026-06-17_读完AgentLoop工程手册，我有8个还没想明白的问题.md
+
+## [2026-06-18] ingest | Daily sync - 17 raw articles linked
+- 2026-06-18_40万次ClaudeCode会话实锤：这才是AI时代最值钱的本事！.md
+- 2026-06-18_AI-Native的5个层级：如何在30天内从Level1走到Level5丨SiliconValleyGirl.md
+- 2026-06-18_AIAgent时代的CodeReview.md
+- 2026-06-18_OiiOii升级2.0：把AI视频创作技能点满，做爆款更简单.md
+- 2026-06-18_harness-pilot给代码库加一套规则说明书和自动检查器.md
+- 2026-06-18_《LoopEngineering橙皮书》发布！免费，开源.md
+- 2026-06-18_一个23岁OPC的复盘：今年1月丢掉的100万大单，和那些我一直没想清楚的事.md
+- 2026-06-18_一文搞懂Token经济学：同样额度多干3倍活，只需理解消耗机制.md
+- 2026-06-18_一文搞懂Token经济学：同样额度多干3倍活，只需理解消耗机制_2.md
+- 2026-06-18_三个40岁老程序员决定用AI重新出发（八）：人和Agent共用的待办清单.md
+- 2026-06-18_值得收藏的20+个AgentSkills、仓库和市场.md
+- 2026-06-18_原力灵机发布Ferrata系统，物理AI迎来自己的Harness.md
+- 2026-06-18_实测GLM-5.2：Claude5关停后，它真能稳稳接住这波用户.md
+- 2026-06-18_更可靠的主播助理：淘宝主播Agent的Harness工程实战.md
+- 2026-06-18_深度｜Agent时代的下半场：谁在抢占中国企业AI的基础设施入口.md
+- 2026-06-18_详解循环工程：来自LangChain开发者SydneyRunkle的完整分享.md
+- 2026-06-18_面向Skills编程-淘宝企业购端对端研发提效实践.md
+## [2026-06-21] ingest | Daily sync (cron)
+- Symlinked 2 raw articles to raw/articles/:
+  - 2026-06-21_TheAgentLoopArchitecture.md
+  - 2026-06-21_讲真昨天是今年我用AI最触动的时刻。.md
+
+## [2026-06-22] ingest | Daily sync - 8 raw articles linked
+- 2026-06-22_Obsidian构建个人知识库：基于LLMWiki打造第二大脑.md
+- 2026-06-22_OpenClaw创始人吹的Loop工程到底是个撒？不用写提示词了？.md
+- 2026-06-22_五一我没开电脑，但我的Agent团队没放假如何用HermesAgent移动办公.md
+- 2026-06-22_五一我没开电脑，但我的Agent团队没放假如何用HermesAgent移动办公_2.md
+- 2026-06-22_五一我没开电脑，但我的Agent团队没放假如何用HermesAgent移动办公_3.md
+- 2026-06-22_从埋点需求到规则资产：HermesAgent重构得物数仓工作流.md
+- 2026-06-22_洗个澡功夫，Codex替我跟售后把退款要了回来｜附指南.md
+- 2026-06-22_科普篇｜FDE和咨询、外包、员工的差异是什么？.md
+
+## [2026-06-23] ingest | 20 raw articles symlinked (cron lightweight sync)
+2026-06-23_35岁工程师的第二春：AI时代，经验终于比体力值钱了.md\n2026-06-23_AI团队协作案例：全链路研发提效实践分享.md\n2026-06-23_AI用得好不好，跟你会不会管人，我觉得越来越是同一件事。.md\n2026-06-23_Cloudflare给AIagent开了个临时账号，让它们能写完代码直接上线，公网可见.md\n2026-06-23_YC合伙人：如何利用AI打造一家自我进化的公司丨YCombinator.md\n2026-06-23_不靠专家出题，8万条人类终端录像，炼成首个真实CLI工作流基准TerminalWorld.md\n2026-06-23_主流AgentHarness实现对比——SubAgent与MultiAgent.md\n2026-06-23_从OpenClaw到FastClaw：如何设计优秀的多Agent架构.md\n2026-06-23_从PromptEngineering到HarnessEngineering：AI工程体系的四次演进.md\n2026-06-23_从提示词智能体到循环工程.md\n2026-06-23_大更新！Codex×剪辑Skills，一句话剪视频，免费开源.md\n2026-06-23_如何用Claude以10倍速度学习任何东西.md\n2026-06-23_实测小云雀短剧Agent2.0，字节自家的工作流用起来比德芙还丝滑.md\n2026-06-23_当代码越来越便宜，什么在变贵？.md\n2026-06-23_我的harness实操拆解：5个Agent并行预测世界杯！.md\n2026-06-23_李继刚19个Skills，真正厉害的是这条线.md\n2026-06-23_构建生产级AI系统必须掌握的6个AI概念.md\n2026-06-23_深入理解ClaudeCode：从CLAUDE.md到Hooks、Skills、Subagents...md\n2026-06-23_老金开源GoalPro，别让AI把目标越写越烂.md\n2026-06-23_面向产品经理的循环工程（LoopEngineering）.md\n
+
+## [2026-06-24] lint | 修复 77 个问题
+- ✅ Broken wikilinks: 1 fixed (lai-xinlu: memory → portable-memory-layer)
+- ✅ Index 缺失: 12 pages added (9 entities + 3 concepts)
+- ✅ Index 格式: 所有 `||-` 修正为 `-`，Total pages 更新为 155
+- ✅ Confidence 补全: 15 单源页面添加 `confidence: medium`
+- ✅ Outbound links: 4 页面补足到 ≥2 出站链接 (michael-truell, huashu, cursor, workbuddy)
+
+## [2026-06-24] sync | 补漏同步 + raw/ 整理
+- 今日 7 篇 raw 文章 symlinked 到 raw/articles/
+- 补漏 24 篇历史遗漏文章 symlinked
+- raw/ 根目录 46 个误放文件清理，移入 raw/articles/ 并转为 symlink
+- 198 个早期 regular file 中 73 个已有源替换为 symlink，125 个无源保留
+- 最终状态: Symlinks 537 / Regular 125 / Total 662
+
+## [2026-06-24] new page | loop-engineering
+- 创建 concepts/agent/loop-engineering.md（循环工程）
+- 10 篇 raw 文章作为来源，confidence: high
+- 添加到 index.md AI Coding 章节
+- 涵盖：概念引爆、四层演进、五动作框架、/goal 与 /loop、双 Agent 原则、Harness 地基、三层架构、四笔代价、务实观点
+
+## [2026-06-24] new page | loop-engineering + metadata fix
+- 创建 concepts/agent/loop-engineering.md（10 sources, confidence: high）
+- 13 个 wikilinks 全部验证通过
+- 修复 16 个页面的 orphan source 引用（中文弯引号、文件名差异、wikilink 嵌入）
+- orphan sources: 15 → 0
+- Total pages: 155 → 156
+
+## [2026-06-24] ingest | Daily batch sync — 11 articles
+
+## [2026-06-25] ingest | 每日维护批量同步 14 篇文章
+- Symlinked 14 raw articles from media-conent/raw/ to wiki/raw/articles/
+- Files: 2026年7月国产AI视频模型横评, 7亿播放LibTV, @Suryanshti777推文, Anthropic访谈, LibTV导演台, OpenClaw/WorkBuddy/Loop工程, 得物AI实践, 全链路研发智能体, Claude进群, Hermes learn模式, LoopEngineering教程, 场景营销AICoding, 每天十万行AI代码, 阿里OpenCodeReview
+
+## [2026-06-26] ingest | Lightweight daily sync (cron)
+- Symlinked 13 raw articles to ~/wiki/raw/articles/
+- Files: 2026-06-26_*.md (13 articles from media-conent/raw/)
+## [2026-06-30] ingest | Lightweight daily sync (cron)
+- Symlinked 11 raw articles to ~/wiki/raw/articles/
+- Files: 2026-06-30_*.md (11 articles from media-conent/raw/)
+## [2026-07-02] ingest | Lightweight daily sync
+- Symlinked 9 raw articles to raw/articles/: 2026-07-02_*.md
+- Files: 20分钟入门Codex, AIAgent的Skill系统设计, AIUITester, Harness工程之道, 你以为全公司都在用AI, 协作的逆向演进, 吴恩达对LoopEngineering的理解, 好用的AgentSkill到底怎么构建, 胡彦斌VibeCoding

@@ -5,6 +5,7 @@ updated: 2026-05-09
 type: concept
 tags: [ai-coding, practice]
 sources: [raw/articles/2026-05-09-ai-engineer-roadmap-2026.md]
+confidence: medium
 ---
 
 # AI工程师路线图 (2026版)

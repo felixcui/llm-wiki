@@ -6,7 +6,7 @@ type: concept
 tags: [agent-framework, inference, data]
 sources:
   - raw/articles/2026-04-24_Harness到底是什么？看看OpenClaw、Hermes、ClaudeCode的演绎吧.md
-  - raw/articles/2026-04-22_从玩具到生产力：用真实项目讲透 AI Agent 的 Harness Engineering.md
+  - raw/articles/2026-04-22_从玩具到生产力：用真实项目讲透 AI Agent 的 Harness Engineering.md
   - raw/articles/2026-04-22_深度解析ClaudeCode在PromptContextHarness的设计与实践.md
   - raw/articles/2026-04-24_刚刚！GenericAgent中文教程发布！比Hermes省10倍Token.md
   - raw/articles/2026-04-27_Skill也有语言虚拟机了！上交大开源SkVM，实现一次编写，处处高效.md
@@ -33,7 +33,7 @@ Martin Fowler 在 2026 年 4 月的文章中，将 Harness Engineering 直接定
 
 ### 管的是"非确定性"
 
-传统软件工程管的是「确定性」（为人类设计的防呆系统），而 Harness Engineering 管的是「非确定性」——大模型是概率引擎，同样的输入可能返回不同结果。Harness 不是泛泛的"好习惯"，它是为了把一台「聪明但没有工程常识的非确定性引擎」嵌进「确定的业务流水线」而设计的物理控制面。^[raw/articles/2026-04-22_从玩具到生产力：用真实项目讲透 AI Agent 的 Harness Engineering.md]
+传统软件工程管的是「确定性」（为人类设计的防呆系统），而 Harness Engineering 管的是「非确定性」——大模型是概率引擎，同样的输入可能返回不同结果。Harness 不是泛泛的"好习惯"，它是为了把一台「聪明但没有工程常识的非确定性引擎」嵌进「确定的业务流水线」而设计的物理控制面。^[raw/articles/2026-04-22_从玩具到生产力：用真实项目讲透 AI Agent 的 Harness Engineering.md]
 
 ## Harness 七层模型
 

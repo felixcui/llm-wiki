@@ -5,7 +5,7 @@ updated: 2026-05-16
 type: entity
 tags: [tool, agent-framework, open-source, fine-tuning]
 sources:
-  - raw/articles/2026-04-25_深度解析HermesAgent如何实现"自进化"及其PromptContextHarness的设计实践.md
+  - raw/articles/2026-04-25_深度解析HermesAgent如何实现“自进化”及其PromptContextHarness的设计实践.md
   - raw/articles/2026-04-24_深入源码：HermesAgent如何实现Self-Improving.md
   - raw/articles/2026-04-25-hermes-skills-agent-self-evolution.md
   - raw/articles/2026-05-14_【深度拆解】OpenClawvsHermes：多Agent架构设计.md

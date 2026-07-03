@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: concept
 tags: [optimization, inference]
 sources: [raw/articles/2026-04-28-ai-engineer-learning-path.md]
+confidence: medium
 ---
 
 # Prompt Engineering

@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: concept
 tags: [tool, ai-coding]
 sources: [raw/articles/2026-04-28-design-md.md]
+confidence: medium
 ---
 
 # DESIGN.md Specification

@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: entity
 tags: [person]
 sources: [raw/articles/2026-04-28-opc-content-driven-experience.md]
+confidence: medium
 ---
 
 **阿星** 是一位内容驱动型 OPC（一人公司）实践者，专注于 AI 提效培训、企业工作流自动化与自媒体内容创作。他在 2050 大会上分享了《内容驱动型 OPC 实战经验：从 0 到 1 跑通第二曲线》，系统阐述了自己从 2023 年起用 AI 自媒体带动商业化的三年历程。

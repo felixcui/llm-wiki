@@ -7,7 +7,7 @@ tags: [agent-framework, open-source]
 sources:
   - raw/articles/2026-04-25_CoordinationEngineering关键一环，JiuwenClaw再发布TeamSkills技能新范式.md
   - raw/articles/2026-04-25_开源一个PPTSkill｜压进了我10年的设计经验.md
-  - raw/articles/2026-04-25_深度解析HermesAgent如何实现"自进化"及其PromptContextHarness的设计实践.md
+  - raw/articles/2026-04-25_深度解析HermesAgent如何实现“自进化”及其PromptContextHarness的设计实践.md
   - raw/articles/2026-04-27_Skill也有语言虚拟机了！上交大开源SkVM，实现一次编写，处处高效.md
   - raw/articles/2026-04-28-google-agent-skill-toolkit.md
   - raw/articles/2026-04-28-taobao-marketing-workflow.md
@@ -61,7 +61,7 @@ SkVM 的核心价值在于：它让 Skill 规范从"写得好不好"的问题，
 - **Logo Generator Skill**：AI 生成 SVG 基础 + AI 生成高级展示图，信息收集 → 6+ SVG 变体 → 高级展示图 ^[raw/articles/2026-04-22_我做了个Skill：让AI帮你生成Logo和图标.md]
 - **导演分镜 Skill**：[[shanyin-director-skill]] 将一句话转化为 62 个专业分镜：导演定调 → 节奏规划 → 剧本微调 → 分镜拆解 → 输出分镜表 ^[raw/articles/2026-04-24_一句话变成62个专业分镜：山音超级导演大师Skill来了.md]
 - **teamskill-creator**：自动生成多 Agent 团队技能，如 23 位 AI 医学专家联合会诊 ^[raw/articles/2026-04-25_CoordinationEngineering关键一环，JiuwenClaw再发布TeamSkills技能新范式.md]
-- **Hermes Skill 库**：运行轨迹自动积累的动态技能库 ^[raw/articles/2026-04-25_深度解析HermesAgent如何实现"自进化"及其PromptContextHarness的设计实践.md]
+- **Hermes Skill 库**：运行轨迹自动积累的动态技能库 ^[raw/articles/2026-04-25_深度解析HermesAgent如何实现“自进化”及其PromptContextHarness的设计实践.md]
 - **淘天 ProForm/ProTable Skill**：领域 Skill 作为按需手册，将表单（ProForm + useForm）和表格（ProTable + useTable）的开发范式分别封装，编码时由 Agent 按需加载。迁移场景中实现 62.73% 迁移时间降低 ^[raw/articles/2026-04-28-taobao-marketing-workflow.md]
 
 ## 参见

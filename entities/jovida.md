@@ -5,6 +5,7 @@ updated: 2026-04-29
 type: entity
 tags: [tool, agent-framework, consumer, china-ecosystem]
 sources: [raw/articles/2026-04-29_前字节产品高管拿到数千万元Pre-Seed轮融资，锦秋、百度风投押注LifeAgent.md]
+confidence: medium
 ---
 
 # Jovida

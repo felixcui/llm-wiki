@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-  > Last updated: 2026-05-19 | Total pages: 152
+  > Last updated: 2026-06-24 | Total pages: 156
 
 ## Entities
 
@@ -85,6 +85,15 @@
 - [[shuzi-shengming-kazik]] — 数字生命卡兹克，AI 自媒体博主，AIHOT / 洁癖 Skill 作者
 - [[zhiyuanfu]] — 腾讯程序员，"24h 打工人"系统作者，脚手架 > 模型理念倡导者
 - [[zhou-yunlong]] — InfoQ 作者，提出「理解债」概念，AI 编程实践领域深度写作者
+- [[cursor]] — AI 驱动代码编辑器（VS Code fork），提出 Tab→Agent→Team 三纪元模型，75% 企业代码由 AI 生成
+- [[flomo]] — flomo / 少楠 — flomo 浮墨笔记联合创始人，产品经理转型 AI Native Coder，PM 先拿代码库权限用代码验证需求
+- [[huashu]] — 花叔 — AI 博主、独立开发者（OPC 实践者），开源女娲.skill（19K stars），自建 AI 专家系统运营一人公司
+- [[lai-xinlu]] — 来新璐 — ShareAI 发起人，Learn Claude Code（50K stars）作者，提出 Harness 三层框架（执行/状态/治理）
+- [[matt-pocock]] — Matt Pocock — TypeScript 教学专家，skills 仓库（75K stars）作者，提出反馈优先、行为优于实现等五条核心理念
+- [[michael-truell]] — Michael Truell — Cursor 创始人兼 CEO，提出软件开发三纪元模型（Tab → Agent → Team）
+- [[notebooklm]] — NotebookLM — Google AI 知识库产品，基于用户上传资料回答问题，七层 RAG 架构，极低幻觉
+- [[skillfactory]] — SkillFactory — 面向 Harness 设计的技能工厂，标准测试驱动 Skill 生成，支持多路并发生成与自动评估
+- [[workbuddy]] — WorkBuddy — 腾讯 AI 工作台，24 个专家团 / 160 个 AI 角色，Multi-Agent 编排产品化，支持专家市场
 
 ## Concepts
 
@@ -136,12 +145,13 @@
 
 ### 工具/产品
 
+- [[llm-wiki]] — LLM Wiki — 基于持久化 Markdown 的知识库方法论（Karpathy 模式），与 RAG 互补的编译型知识管理
 - [[ai-customer-service]] — AI 客服系统全栈落地：意图识别、混合检索、生成约束、上下文管理、可观测性与数据飞轮
 - [[ai-workforce-impact]] — AI 对劳动力市场的非对称冲击：美国白领首当其冲，中国制造业"两条线并行"
 - [[goal-driven-agent]] — Goal-Driven vs Task-Driven Agent 设计范式，五个前提，共享状态机制
 - [[agi-paradox]] — AGI 悖论：功能意义上已存在但真正自主的 AGI 不可实现（哲学/商业/道德三重矛盾）
 - [[ai-native-editor]] — AI 原生编辑器：AI 内置非插件式，Zed（Rust+GPUI）/Cursor 代表，ACP 协议支持外部 Agent 交互
-|- [[design-md-specification]] — DESIGN.md：Markdown 原生设计系统规范格式，AI 可直接解析，替代 Figma 导出
+- [[design-md-specification]] — DESIGN.md：Markdown 原生设计系统规范格式，AI 可直接解析，替代 Figma 导出
 - [[html-agent-output-format]] — HTML作为Agent输出格式：替代Markdown，信息密度/可视化/交互全面优势
 
 - [[ai-office-automation]] — AI 办公自动化：PPT Agent、视频编辑与办公场景落地
@@ -151,18 +161,21 @@
 
 ### AI Coding
 
-|- [[vibecoding]] — Vibe Coding：Karpathy 发明，"凭感觉让 AI 写代码"，降低开发门槛
-|- [[agentic-engineering]] — Agentic Engineering：Karpathy 2026 提出，设计/协调/监督 Agent 同时保证质量、安全与责任
-|- [[software-3-0]] — Software 3.0：Karpathy 软件范式三期模型，LLM 作为新"解释器"
-|- [[spec-driven-development]] — 规范驱动开发（SDD）：Spec-Kit/OpenSpec/Superpowers 分层架构与选型指南
+- [[skill-creator]] — Skill Creator — Agent Skill 创建方法论与工具链，从需求到标准 Skill 的完整流程
+- [[loop-engineering]] — Loop Engineering（循环工程）— 设计能自动指挥 AI 的循环系统：发现→交付→验证→记忆→决定下一步，是 Harness 之上的自动化调度层
+- [[vibecoding]] — Vibe Coding：Karpathy 发明，"凭感觉让 AI 写代码"，降低开发门槛
+- [[agentic-engineering]] — Agentic Engineering：Karpathy 2026 提出，设计/协调/监督 Agent 同时保证质量、安全与责任
+- [[software-3-0]] — Software 3.0：Karpathy 软件范式三期模型，LLM 作为新"解释器"
+- [[spec-driven-development]] — 规范驱动开发（SDD）：Spec-Kit/OpenSpec/Superpowers 分层架构与选型指南
 - [[claude-code-system-prompt]] — Claude Code 系统提示词三层架构（身份/能力/配置）与上下文工程实现
-|- [[agents-md]] — AGENTS.md：AI Coding Agent 上下文文件开放标准，60K+ 项目采用，"Map, not Manual"理念
-|- [[ai-architecture-design]] — AI 主导架构设计：AI 从代码助手到架构决策者的角色延伸
+- [[agents-md]] — AGENTS.md：AI Coding Agent 上下文文件开放标准，60K+ 项目采用，"Map, not Manual"理念
+- [[ai-architecture-design]] — AI 主导架构设计：AI 从代码助手到架构决策者的角色延伸
 - [[comprehension-debt]] — 理解债（Comprehension Debt）：AI 编程中开发者对未读懂代码的认知成本，以复利增长
 - [[ai-engineer-roadmap]] — AI工程师路线图2026：17周6阶段，agentic AI与harness engineering为核心
 
 ### 技术原理
 
+- [[harness-engineering-template]] — Harness Engineering 模板 — 企业级 Harness 工程落地模板，标准测试驱动 Skill 生成
 - [[ai-engineering]] — AI Engineering：围绕 LLM 构建可靠生产系统的工程学科，20% 技能驱动 80% 工作
 - [[prompt-engineering]] — Prompt Engineering：从"和模型聊天"到"可预测地控制模型"，LLM 交互核心技能
 - [[token-roi]] — Token ROI：Token 投资回报率，token 消耗是成本而非价值，应关注 AI 带来的有效收益与综合成本之比

@@ -5,6 +5,7 @@ updated: 2026-05-06
 type: entity
 tags: [company, tool]
 sources: [raw/articles/2026-05-06-ai-code-trust-gap.md]
+confidence: medium
 ---
 
 # Sonar

@@ -5,6 +5,7 @@ updated: 2026-05-09
 type: entity
 tags: [company, china-ecosystem]
 sources: [raw/articles/2026-05-09-kuaishou-krowork-agent.md]
+confidence: medium
 ---
 
 # 快手 (Kuaishou)

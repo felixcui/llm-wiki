@@ -1,0 +1,1 @@
+/Users/felix/work/github/media-conent/raw/2026-06-23_YC合伙人：如何利用AI打造一家自我进化的公司丨YCombinator.md

@@ -1,0 +1,1 @@
+/Users/felix/work/github/media-conent/raw/2026-07-17_Granola创始人：一家15亿美元AI公司，押注下一代工作方式丨Every.md

@@ -1,0 +1,1 @@
+/Users/felix/work/github/media-conent/raw/2026-07-16_宝玉的字幕转录翻译剪辑Skill——BaoCut（仅支持Mac）.md

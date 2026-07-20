@@ -257,3 +257,54 @@
 ## [2026-07-02] ingest | Lightweight daily sync
 - Symlinked 9 raw articles to raw/articles/: 2026-07-02_*.md
 - Files: 20分钟入门Codex, AIAgent的Skill系统设计, AIUITester, Harness工程之道, 你以为全公司都在用AI, 协作的逆向演进, 吴恩达对LoopEngineering的理解, 好用的AgentSkill到底怎么构建, 胡彦斌VibeCoding
+
+## [2026-07-06] sync | Daily maintenance - symlink to raw articles
+- Symlinked 5 articles from media-conent/raw/ to wiki/raw/articles/
+  - 2026-07-06_ClaudeCode之父的老板，坦白Agent协作方法：他们做对的，和还没解决的！.md
+  - 2026-07-06_Codeischeap.Don'twriteany.——AINative，程序员如何提升五倍coding效率.md
+  - 2026-07-06_Codex、ChatGPT为何合体？Codex未来何去何从？OpenAI核心leader回应一切.md
+  - 2026-07-06_Superpowers6.0发布：让AI自己优化自己，Token省了60%.md
+  - 2026-07-06_我的免费VibeCoding教程，大更新！.md
+## [2026-07-07] ingest (cron sync) | 4 raw articles symlinked
+- 2026-07-07_AI写代码越来越快，质量谁来守？网盘主端FE的AICR准入实践.md
+- 2026-07-07_Claude、GLM、GPT谁才是真正的AI软件工程师？首个持续更新VisualSpec-to-AppBenchmark发布.md
+- 2026-07-07_RichardSocher：为什么你现在需要重新思考你的职业生涯丨SiliconValleyGirl.md
+- 2026-07-07_持续霸榜Github的是一个AI视频剪辑项目.md
+## [2026-07-10] ingest | Daily sync: 24 raw articles linked\n- Symlinked 24 articles from media-conent/raw/ to wiki/raw/articles/
+
+## [2026-07-11] lint | Daily maintenance
+- Wiki sync: no new articles for 2026-07-11
+- Git: committed and pushed 2 files
+- IMA: API healthy (code 51)
+- NotebookLM: 1 error source (80c9263f) could not be deleted (API error)
+
+## [2026-07-12] ingest | Lightweight daily sync — 2 raw articles linked
+- raw/articles/2026-07-12_GPT-5.6Token烧得快？因为它背着你雇人了.md
+- raw/articles/2026-07-12_这款简单的APP每月能赚5万美元，他怎么做到的？丨StarterStory.md
+## [2026-07-13] ingest | Daily lightweight sync — 6 raw articles linked
+## [2026-07-13] lint | Skipped (lightweight sync)
+
+## [2026-07-14] ingest | Daily lightweight sync — 7 articles linked
+- 2026-07-14_大二学生借助Agent+Obsidian，搭了一套自己的OPC赚钱系统.md
+- 2026-07-14_得物推荐系统诊断Agent：从"调接口"到"会思考"｜AICon演讲整理.md
+- 2026-07-14_电报体Skill：号称省65%Token，实测只有8.5%.md
+- 2026-07-14_耗时7天，我们开源了腾讯WorkBuddy实战蓝皮书（建议收藏）.md
+- 2026-07-14_让Agent成为音视频工作台：AIMediaKitCLI+Skill发布.md
+- 2026-07-14_让Agent按工程标准交付：AICoding下的质量关卡实践.md
+- 2026-07-14_越优秀的人，越容易把工作做成AI接不住的样子.md
+
+## [2026-07-15] ingest | Daily cron lightweight sync (7 articles)
+- Symlinked 7 raw articles to wiki/raw/articles/
+- Files: 2026-07-15_@vista8的推文.md, 2026-07-15_GitHub-msitarzewskiagency-agentsAcompleteAIagencyatyourfingertips-Fromfrontendwi.md, 2026-07-15_从超级个体到超级组织：1688数据中心Multi-Agent研发小队实录.md, 2026-07-15_我给Codex和Cursor接了一条自动记忆总线.md, 2026-07-15_未知标题.md, 2026-07-15_自学习智能体？又一个热点方向.md, 2026-07-15_豆包、WorkBuddy、QoderWork怎么选？我用8个真实办公任务把三家桌面Agent测明白了.md
+- NotebookLM upload: Google API transient failure (SOURCE_ID registration), all 7 deferred
+- Deleted 1 error source (Pasted Text) from NotebookLM
+## [2026-07-16] sync | Daily cron lightweight sync
+- Symlinked 19 articles to wiki/raw/articles/ (2026-07-16 batch)
+- Files: AINMM, AI不会做设计, AI生图总跑偏, CT飞书cli, Codex史诗级更新, RAG技术全景, WorkBuddySkill, YC设计负责人, 同事丢一句话, 如何与AI高效协作, 如何将CodeBuddy嵌入在线应用, 宝玉BaoCut, 平均每天VibeCoding16小时, 用Codex+Remotion做唐朝动画, 数据研发Multi-Agent, 文章找茬神器, 未知标题, 用AI做视频, 这套AI第二大脑
+## [2026-07-17] ingest | Daily cron sync (lightweight)
+- Symlinked 12 raw articles to raw/articles/
+  2026-07-17_2026年如何打造多模型AI团队.md, 2026-07-17_2026年，一个AI的超级风口.md, 2026-07-17_ChatGPTWork来了：OpenAI把Codex的执行能力搬进整个办公桌.md, 2026-07-17_Granola创始人：一家15亿美元AI公司，押注下一代工作方式丨Every.md, 2026-07-17_KimiK3：智能的新前沿.md, 2026-07-17_OpenAI官方教你8招玩透ChatGPT！.md, 2026-07-17_一个基于AI把苏格拉底和乌托邦绑在一起的学习类应用.md, 2026-07-17_一文讲透Skill.md, 2026-07-17_三个40岁老程序员决定用AI重新出发（十）：客户主动让AI碰广告预算了，我们为什么还不敢？.md, 2026-07-17_作业辅导难？手把手教你用WorkBuddy定制AI家教.md, 2026-07-17_港大实验室111天拿下2万GitHubStar：开源了一款AI个性化辅导私教，在GitHub上杀疯了！.md, 2026-07-17_蒸馏645篇文章，开源了这个公众号标题Skill！告别流量焦虑～.md
+
+## [2026-07-18] ingest | Daily lightweight sync — 14 raw articles symlinked
+- 14 articles from 2026-07-18 linked to ~/wiki/raw/articles/
+- Git committed and pushed to media-conent repo

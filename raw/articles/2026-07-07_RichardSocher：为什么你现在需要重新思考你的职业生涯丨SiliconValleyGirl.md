@@ -1,0 +1,1 @@
+/Users/felix/work/github/media-conent/raw/2026-07-07_RichardSocher：为什么你现在需要重新思考你的职业生涯丨SiliconValleyGirl.md

@@ -100,6 +100,12 @@ BrowserUse 代表 [[harness-engineering-deep-dive|Harness Engineering]] 在 Web 
 
 ^[raw/articles/2026-05-14_BrowserUse：为Agent构建RuntimeHarness.md]
 
+## 相关
+
+- [[harness-engineering-deep-dive]] — Harness Engineering 核心理念
+- [[claude-code]] — AI 编程中的浏览器测试
+- [[agent-framework]] — Agent 框架概览
+
 ## 参考
 
 - GitHub: https://github.com/hixuanxuan/browser-automation

@@ -308,3 +308,6 @@
 ## [2026-07-18] ingest | Daily lightweight sync — 14 raw articles symlinked
 - 14 articles from 2026-07-18 linked to ~/wiki/raw/articles/
 - Git committed and pushed to media-conent repo
+
+## [2026-08-20] ingest | Daily lightweight sync — 9 raw articles symlinked
+- 9 articles from 2026-08-20 linked to ~/wiki/raw/articles/

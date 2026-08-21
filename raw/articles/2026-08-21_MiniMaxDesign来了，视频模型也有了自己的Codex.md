@@ -1,0 +1,1 @@
+/Users/felix/work/github/media-conent/raw/2026-08-21_MiniMaxDesign来了，视频模型也有了自己的Codex.md

@@ -311,3 +311,7 @@
 
 ## [2026-08-20] ingest | Daily lightweight sync — 9 raw articles symlinked
 - 9 articles from 2026-08-20 linked to ~/wiki/raw/articles/
+
+## [2026-08-21] ingest | Daily lightweight sync — 4 raw articles symlinked
+- 4 articles from 2026-08-21 linked to ~/wiki/raw/articles/
+- Repair: 218 non-symlink files with matching sources converted to symlinks (0 content diffs); 125 source-less files kept as historical artifacts

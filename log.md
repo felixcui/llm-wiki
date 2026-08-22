@@ -315,3 +315,7 @@
 ## [2026-08-21] ingest | Daily lightweight sync — 4 raw articles symlinked
 - 4 articles from 2026-08-21 linked to ~/wiki/raw/articles/
 - Repair: 218 non-symlink files with matching sources converted to symlinks (0 content diffs); 125 source-less files kept as historical artifacts
+
+## [2026-08-22] ingest | Daily lightweight sync — 1 raw article symlinked
+- 1 article from 2026-08-22 linked to ~/wiki/raw/articles/
+  2026-08-22_万字深读DeepSeekHarness：没有特权核心，万物皆插件？Agent架构新范式揭秘.md

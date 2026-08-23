@@ -319,3 +319,6 @@
 ## [2026-08-22] ingest | Daily lightweight sync — 1 raw article symlinked
 - 1 article from 2026-08-22 linked to ~/wiki/raw/articles/
   2026-08-22_万字深读DeepSeekHarness：没有特权核心，万物皆插件？Agent架构新范式揭秘.md
+
+## [2026-08-23] ingest | Daily lightweight sync — 17 raw articles symlinked
+- 17 articles from 2026-08-23 linked to ~/wiki/raw/articles/

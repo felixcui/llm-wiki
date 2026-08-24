@@ -322,3 +322,8 @@
 
 ## [2026-08-23] ingest | Daily lightweight sync — 17 raw articles symlinked
 - 17 articles from 2026-08-23 linked to ~/wiki/raw/articles/
+
+## [2026-08-24] ingest | Daily lightweight sync — 2 raw articles symlinked
+- 2 articles from 2026-08-24 linked to ~/wiki/raw/articles/
+  2026-08-24_Anthropic：AI没有导致失业率的增加.md
+  2026-08-24_一行命令，我把ClaudeCode和Codex打通了.md
